@@ -1,6 +1,9 @@
-# Pinterest Project
+# Pinterest Data Streaming and Processing
 
-This project involved creating a data pipeline using the AWS cloud and Pinterest data. 
+## Introduction
+
+This project involves the development of a robust data streaming pipeline for processing Pinterest data using Apache Spark and Delta Lake. The pipeline is designed to ingest, transform, and store real-time data, facilitating efficient data analysis and retrieval. Key features include the use of Delta Lake for ACID transactions and scalable storage, as well as the integration of structured streaming to handle continuous data flow from Kinesis. The project aims to enhance data accessibility and enable insightful analytics for users by leveraging modern data engineering practices.
+
 
 ## Milestone 1 - Environment setup
 
